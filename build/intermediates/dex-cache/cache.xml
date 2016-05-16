@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\classes-9a6bff08d451ffd6eeaa64258c26267e2411cfcb.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\classes-a19d1560bec2a5589c866dc30eb748280d45d2cb.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\classes-8ccd251c92ebd30d1e7f5560fa91b925dae3ab89.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-76ea93cf2bee11cc86588cb89f2831c0b2d7eed9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\exploded-aar\Android-MaterialDeleteLayout-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3ec3985a0f30b9472e6e5bebe390f7a519ee631e">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\classes-a25681a1702387def1be854adbfb3e1571aa510a.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.plattysoft.leonids\LeonidsLib\1.3.1\465bff5ee3634af14128a1341a20cee246e4b1c1\LeonidsLib-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="465bff5ee3634af14128a1341a20cee246e4b1c1">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\LeonidsLib-1.3.1-33c1b58d2fd21d085e81f7e1ea7167696aaed3f3.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\classes-94e0a56ede5c3dc3af5193e5eb7b8b353a14664d.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\android_github\Android-MaterialDeleteLayout-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c2a834644c1c672d9fdfa247500964fd5050cc2d.jar" />
+    </item>
+
+</items>
